@@ -25,7 +25,7 @@ An Information and Technology student at BulSU (2nd year)
 
 - 🍀 Likes to explore random stuff I suddenly find interesting
 - ❓ Solves problems and stopping halfway thru and forget abt it
-- 🤡 Tackles out of my league projects and ponder over how I'm the worst programmer
+- 🤡 Tackles out of my league projects and ponder over how I suck at programming
 
 ## 🔨 Languages, Tools
 
