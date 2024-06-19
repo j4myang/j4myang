@@ -9,7 +9,7 @@
   <a href="https://web.facebook.com/profile.php?id=61561051551052">
     <img src="https://img.shields.io/badge/Janver Flores-blue?logo=facebook&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://x.com/jamberuu">
+  <a href="https://x.com/amfudmvy">
     <img src="https://img.shields.io/badge/amfudmvy-black?logo=X&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://discord.com/channels/@me">
