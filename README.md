@@ -24,7 +24,7 @@ An Information and Technology student at BulSU (2nd year)
   </a>
   
   <a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/0x6a616e766572-blue?logo=discord&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
 
