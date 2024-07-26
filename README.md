@@ -47,6 +47,6 @@ An Information and Technology student at BulSU (2nd year)
 
 ## 🌿 Branching Out
 
-- Currently learning Kotlin for android development and making it my main language (i hate java)
+- Currently learning Kotlin for android development and making it my main language
 - Planning on learning web development soon
 - Planning on dipping my toes in Assembly for reverse engineering and CybSec (seems fun and exciting)
