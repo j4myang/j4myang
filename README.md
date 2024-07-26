@@ -1,21 +1,6 @@
 <div id="header" align="center">
 <h1>
   Hello, Welcome!
-  <br>
-  <br>
-  <img src="https://c.tenor.com/W6fLyBLwKRYAAAAC/tenor.gif"/>
-
-  <div id="socials-badges">
-  <a href="https://web.facebook.com/profile.php?id=61561051551052">
-    <img src="https://img.shields.io/badge/Janver Flores-blue?logo=facebook&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://x.com/amfudmvy">
-    <img src="https://img.shields.io/badge/amfudmvy-black?logo=X&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/badge/cellulargreentea-blue?logo=discord&logoColor=white&style=for-the-badge"/>
-  </a>
-</div>
 </h1>
 </div>
 
@@ -26,6 +11,21 @@ An Information and Technology student at BulSU (2nd year)
 - 🍀 Likes to explore random stuff I suddenly find interesting
 - ❓ Solves problems and stopping halfway thru and forgetting abt it
 - 🤡 Tackles out of my league projects and ponder over how I suck at programming
+
+### Socials
+  <div id="socials-badges">
+  <a href="https://web.facebook.com/profile.php?id=61561051551052">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge"/>
+  </a>
+    
+  <a href="https://x.com/amfudmvy">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=X&logoColor=white&style=for-the-badge"/>
+  </a>
+  
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge"/>
+  </a>
+</div>
 
 ## 🔨 Languages, Tools
 
