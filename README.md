@@ -9,7 +9,7 @@
 An Information and Technology student at BulSU (2nd year)
 
 - 🍀 Likes to explore things that suddenly become of my interest
-- ❓ Forgets about projects I iniially am dead set on doing
+- ❓ Forgets about projects I initially am dead set in doing
 - 🤡 Keeps on doing the same mistakes
 
 ### Socials
