@@ -15,14 +15,12 @@ An Information and Technology student at BulSU (2nd year)
 ### Socials
 
 <div id="socials-badges">
-  <a href="https://web.facebook.com/profile.php?id=61561051551052">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge"/>
+  <a href="https://web.facebook.com/flrsver/">
+    <img src="https://img.shields.io/badge/@flrsver-blue?logo=facebook&logoColor=white&style=for-the-badge"/>
   </a>
-
   <a href="https://x.com/amfudmvy">
-    <img src="https://img.shields.io/badge/Twitter-black?logo=X&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/@amfudmvy-black?logo=X&logoColor=white&style=for-the-badge"/>
   </a>
-  
   <a href="https://discord.com/channels/@me">
     <img src="https://img.shields.io/badge/0x6a616e766572-blue?logo=discord&logoColor=white&style=for-the-badge"/>
   </a>
@@ -44,9 +42,3 @@ An Information and Technology student at BulSU (2nd year)
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35" height="35"/>
 </div>
-
-## 🌿 Branching Out
-
-- Currently learning Kotlin for android development and making it my main language
-- Planning on learning web development soon
-- Planning on dipping my toes in Assembly for reverse engineering and CybSec (seems fun and exciting)
