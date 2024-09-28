@@ -6,6 +6,8 @@
 
 ## ☺️ About Me
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ope6ku2ktlhf7boqhinqfpv2zu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ope6ku2ktlhf7boqhinqfpv2zu&redirect=true)
+
 An Information and Technology student at BulSU (2nd year)
 
 - 🍀 Likes to explore things that suddenly become of my interest
