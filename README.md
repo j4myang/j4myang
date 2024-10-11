@@ -5,24 +5,18 @@
 </div>
 
 ## ☺️ About Me
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ope6ku2ktlhf7boqhinqfpv2zu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ope6ku2ktlhf7boqhinqfpv2zu&redirect=true)
-
-An Information and Technology student at BulSU (2nd year)
-
-- 🍀 Likes to explore things that suddenly become of my interest
-- ❓ Forgets about projects I initially am dead set in doing
-- 🤡 Keeps on doing the same mistakes
+A 2nd year Information and Technology student at BulSU
 
 ### Socials
-
-<div id="socials-badges">
+<div id="socials">
   <a href="https://web.facebook.com/flrsver/">
-    <img src="https://img.shields.io/badge/@flrsver-blue?logo=facebook&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Janver-blue?logo=facebook&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://x.com/amfudmvy">
-    <img src="https://img.shields.io/badge/@amfudmvy-black?logo=X&logoColor=white&style=for-the-badge"/>
+  <br>
+  <a href="https://x.com/j4myang">
+    <img src="https://img.shields.io/badge/@j4myang-black?logo=X&logoColor=white&style=for-the-badge"/>
   </a>
+  <br>
   <a href="https://discord.com/channels/@me">
     <img src="https://img.shields.io/badge/0x6a616e766572-blue?logo=discord&logoColor=white&style=for-the-badge"/>
   </a>
