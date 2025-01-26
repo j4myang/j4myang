@@ -16,10 +16,6 @@ A 2nd year Information and Technology student at BulSU
   <a href="https://x.com/j4myang">
     <img src="https://img.shields.io/badge/@j4myang-black?logo=X&logoColor=white&style=for-the-badge"/>
   </a>
-  <br>
-  <a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/badge/jjxnvr?logo=discord&logoColor=white&style=for-the-badge"/>
-  </a>
 </div>
 
 ## 🔨 Languages, Tools
